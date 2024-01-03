@@ -23,5 +23,6 @@ and trends on the music website, enhancing user engagement.
 
 ![Screenshot 2024-01-02 173738](https://github.com/Ponraj-dev/Music_application/assets/110389942/e172802c-bc14-4e9c-b7e0-d745393a9557)
 
-![Screenshot 2024-01-03 003046](https://github.com/Ponraj-dev/Music_application/assets/110389942/84c73292-0b27-4cc8-9865-466751b45141) ![Screenshot 2024-01-02 173919](https://github.com/Ponraj-dev/Music_application/assets/110389942/fb94bfcc-3a53-403a-994f-2cec7d5a9d23) ![Screenshot 2024-01-03 003008](https://github.com/Ponraj-dev/Music_application/assets/110389942/c112cfe7-05f4-46d0-b481-d81558b1f6e6)
+<img width="1080" alt="Desktop - 1" src="https://github.com/Ponraj-dev/Music_application/assets/110389942/d44f7be6-c66a-460e-960e-c11d8a35a546">
+
 
